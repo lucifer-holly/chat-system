@@ -53,8 +53,8 @@
 ## 如果你想跑起来玩玩
 
 ```bash
-git clone https://github.com/<your-username>/chat-system-ai-coding.git
-cd chat-system-ai-coding
+git clone https://github.com/lucifer-holly/chat-system.git
+cd chat-system
 pip install -r requirements.txt
 
 # 启动服务器
